@@ -1,0 +1,19 @@
+body{
+    background-color: #2e3160;
+    color: #fdfffc;
+    text-align: center;
+    }
+
+input{
+    width: 75px;
+    height: 50px;
+    font-size: 30px;
+    font-family:verdana;
+    border-radius: 5px;
+    margin: 10px;
+    background-color: white;
+    color: black; }
+
+.btn:hover{
+    background-color:#e55ac7;
+    cursor: pointer; }
